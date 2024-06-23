@@ -27,7 +27,7 @@
     <section class="hero">
         <div class="hero-text">
             <h1>Welcome to MyWebsite</h1>
-            <p>We provide amazing services for you.</p>
+            <p>HEY ZAYED .</p>
             <a href="#services" class="cta">Learn More</a>
         </div>
     </section>
@@ -36,18 +36,18 @@
         <div class="service-container">
             <div class="service">
                 <i class="fas fa-laptop-code"></i>
-                <h3>Web Development</h3>
-                <p>Building responsive and functional websites.</p>
+                <h3>SHIRIN Development</h3>
+                <p>SHIRIN FOCUS ON GOALS NOT ON BOYS.</p>
             </div>
             <div class="service">
                 <i class="fas fa-paint-brush"></i>
-                <h3>Graphic Design</h3>
-                <p>Creating stunning visual content.</p>
+                <h3>SABA </h3>
+                <p>KY CONTENT LIKHUU ABHI.</p>
             </div>
             <div class="service">
                 <i class="fas fa-bullhorn"></i>
                 <h3>Digital Marketing</h3>
-                <p>Boosting your online presence.</p>
+                <p>PROCESSE LEKE AAO ABHI r</p>
             </div>
         </div>
     </section>
@@ -55,16 +55,16 @@
         <h2>What Our Clients Say</h2>
         <div class="testimonial-container">
             <div class="testimonial">
-                <p>"MyWebsite transformed our business with a fantastic website!"</p>
-                <h4>- John Doe</h4>
+                <p>"THIS GUYS DOESN'T WORK AT ALL!"</p>
+                <h4>- ZAYED QURESHI</h4>
             </div>
             <div class="testimonial">
-                <p>"Their design work is top-notch. Highly recommend!"</p>
-                <h4>- Jane Smith</h4>
+                <p>"Their design work is top-notch. Highly recommend"</p>
+                <h4>- FARDEEN QURESHI</h4>
             </div>
             <div class="testimonial">
                 <p>"Excellent service and support. We saw immediate results!"</p>
-                <h4>- Mike Johnson</h4>
+                <h4>- MUSKAN SHEIKH</h4>
             </div>
         </div>
     </section>
