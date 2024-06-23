@@ -70,8 +70,8 @@
     </section>
     <footer id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@mywebsite.com</p>
-        <p>Phone: +123 456 7890</p>
+        <p>Email: zayedq17@gmail.com</p>
+        <p>Phone: 8999460437</p>
         <div class="social-icons">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
