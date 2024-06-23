@@ -42,7 +42,7 @@
             <div class="service">
                 <i class="fas fa-paint-brush"></i>
                 <h3>SABA </h3>
-                <p>KY CONTENT LIKHUU ABHI.</p>
+                <p>KY CONTENT LIKHUU ABHI </p>
             </div>
             <div class="service">
                 <i class="fas fa-bullhorn"></i>
